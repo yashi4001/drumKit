@@ -1,0 +1,58 @@
+html{
+    background-color: #35495e;
+}
+h1 .img1{
+    width: 70px;
+    height: 70px;
+}
+h1{
+    text-align: center;
+    font-size: 500%;
+    color: white;
+    border-color: black solid;
+    font-family: 'Spicy Rice', cursive;
+}
+.btn1{
+    height:150px;
+    width:150px;
+    margin-right: 20px;
+    margin-left: 5px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #3b6978;
+    border-radius: 10%;
+}
+button .img2{
+    height:100px;
+    width:100px;
+}
+button .img3{
+    height:100px;
+    width:100px;
+}
+button .img4{
+    height:100px;
+    width:100px;
+}
+button .img5{
+    height:100px;
+    width:100px;
+}
+button .img6{
+    height:100px;
+    width:100px;
+}
+button .img7{
+    height:100px;
+    width:100px;
+}
+button .img8{
+    height:100px;
+    width:100px;
+}
+p{
+    text-align: center;
+    font-size: 100%;
+    font-weight: bold;
+    color: white;
+}
